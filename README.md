@@ -5,6 +5,7 @@ You will need some things before starting:
 * build-essential
 * musl-tools
 * grub-pc-bin  
+  
 Installing build-esssentials, musl-tools, and grub-pc-bin:  
 ```sudo apt install build-essential musl-tools grub-pc-bin```  
   
